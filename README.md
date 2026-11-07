@@ -1,1 +1,1 @@
-# Day-1-Subway_Surf_Finsa-Aileen-Amanta
+# Day-1-Subway_Surf_Finsa_Aileen_Amanta
