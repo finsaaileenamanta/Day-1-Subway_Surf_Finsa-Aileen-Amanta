@@ -18,20 +18,20 @@ Prompt yang spesifik menghasilkan jawaban yang lebih relevan. Berikan konteks, t
 Gunakan struktur Role, Task, Context, dan Format. Periksa kembali hasil AI sebelum digunakan.
 
 Git merupakan sistem untuk mencatat dan mengelola perubahan file atau kode. Sedangkan GitHub adalah platform online untuk menyimpan repository Git dan mendukung kolaborasi.
-Repository: tempat penyimpanan proyek.
-Commit: menyimpan catatan perubahan.
-Branch: cabang untuk mengembangkan fitur secara terpisah.
-Pull Request: mengajukan perubahan untuk ditinjau dan digabungkan.
-Version Control: membantu melacak perubahan dan mengembalikan versi sebelumnya.
+a. Repository: tempat penyimpanan proyek.
+b. Commit: menyimpan catatan perubahan.
+c. Branch: cabang untuk mengembangkan fitur secara terpisah.
+d. Pull Request: dapat mengajukan perubahan untuk ditinjau dan digabungkan.
+e. Version Control: dapat membantu melacak perubahan dan mengembalikan versi sebelumnya.
 Git mempunyai tiga area utama, yaitu Working Directory, Staging Area, dan Repository.
 
 Perintah:
-git init — membuat repository baru.
-git add . — memasukkan perubahan ke staging area.
-git commit -m "pesan" — menyimpan perubahan.
-git push — mengirim perubahan ke GitHub.
-git pull — mengambil dan menggabungkan perubahan dari GitHub.
-git clone — menyalin repository dari GitHub.
+• git init — untuk membuat repository baru.
+• git add . — untuk memasukkan perubahan ke staging area.
+• git commit -m "pesan" — untuk menyimpan perubahan.
+• git push — untuk mengirim perubahan ke GitHub.
+• git pull — untuk mengambil dan menggabungkan perubahan dari GitHub.
+• git clone — untuk menyalin repository dari GitHub.
 
 Tahapan praktik pembuatan aplikasi pencatat tugas mahasiswa menggunakan bantuan AI:
 1. Membuat aplikasi dengan bantuan AI.
